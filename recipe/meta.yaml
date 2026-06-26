@@ -21,7 +21,6 @@ requirements:
     - setuptools
   run:
     - python >={{ python_min }}
-    - six
 
 test:
   requires:
